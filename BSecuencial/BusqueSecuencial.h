@@ -1,0 +1,14 @@
+//
+// Created by gaburolo on 28/08/18.
+//
+
+#ifndef BUSQUEDASECUENCIAL_BUSQUESECUENCIAL_H
+#define BUSQUEDASECUENCIAL_BUSQUESECUENCIAL_H
+
+
+class BusqueSecuencial {
+
+};
+
+
+#endif //BUSQUEDASECUENCIAL_BUSQUESECUENCIAL_H
