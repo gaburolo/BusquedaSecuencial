@@ -3,4 +3,4 @@ project(BusquedaSecuencial)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(BusquedaSecuencial BSecuencial/busquedaSecuencial.cpp)
+add_executable(BusquedaSecuencial Busquedas/main.cpp Busquedas/BusquedaBinaria.cpp Busquedas/BusquedaBinaria.h)
