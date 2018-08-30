@@ -18,8 +18,9 @@ int main() {
 
     int elemento = N;
     int j=0;
+
     int solucion[10]={};
-    for(int i=0;i<N;i++)
+    for(int i=0;i<10;i++)
 
         if(array[i]==elemento)
 
